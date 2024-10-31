@@ -1,0 +1,150 @@
+@charset "utf-8";
+/* CSS Document */
+.pagesizecheckerbody{
+	background-repeat:no-repeat;
+	
+}
+#pagesizecheckerdesc{
+width:60%;
+float:right;
+}
+
+#pagesizecheckerlogo{
+	width:12%;
+	height:auto;
+	
+	float:left;
+}
+#posttitle{
+	color:#e06c23;
+	text-align:center;
+	margin-left:20px;
+}
+
+#pagesizecheckertitle{
+	text-align:center;
+	color:#0086b3;
+	font-size: 54px;
+    font-weight: 300;
+    line-height: 1.3;
+    margin-bottom: 20px;
+	
+}
+#panda{
+color:#e06c23;	
+}
+#keywordanalyzersiteinfo{
+	text-align:center;
+	color:#0086b3;
+	font-size: 20px;
+    font-weight: 600;
+    line-height: 1.3;
+	
+}
+
+
+#infodisp{
+	display:none; position:fixed; left:35%; top:20%; height:auto; z-index:111111; background-color:#FFF;border: 3px solid #4D818C;border-radius: 0.4em;
+	
+}
+
+.loadingimg{
+	display:none; position:fixed; left:49%; top:20%; height:auto; z-index:111111; 
+}
+
+#pagesizecheckerpagelist{
+text-align:left !important;	
+width:80%;
+margin:0 auto;
+padding:30px;
+font-size:15px;
+font-weight:400;
+line-height:1.6;
+}
+#pagesizecheckerresult{
+	
+	position:fixed;
+	clear:both;
+	width:100%;
+	margin:0 auto;
+	width:620px;
+	height:50px;
+	background-color:#fff;
+	border:1px solid #e06c23;
+	display:none;
+	padding:5px;
+	color:green;
+}
+.pagesizecheckersitelist{
+padding:5px;
+}
+#pagesizecheckerpages{
+	width:35%;
+	
+	
+}
+#pagesizecheckerposts{
+	width:35%;
+	
+}
+
+#h3subtitle{
+	color:#e06c23;
+	border-bottom:1px solid #e06c23;
+}
+.icon-arrow-right{
+	color:#e06c23;
+}
+.pagesizecheckerinfo{
+float:right;
+width:30%;
+color:#e06c23;
+text-align:justify;
+padding:5px;
+
+}
+.pagesizecheckercontents{
+	text-align:center;
+	display:block;
+	clear:both;
+	height:auto;
+}
+#getKeywordReport {
+    background-color: #0086b3;
+    border: medium none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Lucida Calligraphy;
+    font-size: 17px;
+    margin: 4px 2px;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.alert-success {
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    color: #3c763d;
+	text-align:left;
+}
+
+.alert-dismissable, .alert-dismissible {
+    padding-right: 35px;
+}
+.alert {
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.alert-warning {
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+    color: #8a6d3b;
+	text-align:left;
+}
+
